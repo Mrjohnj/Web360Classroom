@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Samples/WebXR Interactions/0.13.0-preview/Sample Scene/Scenes/Desert.unity
+    guid: 85380d4847db7b74a850284461349c36
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/JohnDowds.unity
+    guid: c1e445b184dbcb840a80bd8d6578cb06
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 60afad7e7e4ab8346801b33069211616
+  - enabled: 1
+    path: Assets/Scenes/360VPBurnMetal.unity
+    guid: 0b273211066cea845b91b5d0d29973c8
+  - enabled: 1
+    path: Assets/Scenes/360VP-POPTEST.unity
+    guid: 9961866e08838fa46bd41c5d731163b7
+  - enabled: 1
+    path: Assets/Scenes/ExpandScreen.unity
+    guid: 8d4164789c8100541bfd095405c81164
+  - enabled: 1
+    path: Assets/Scenes/FrozenVRImage.unity
+    guid: a02b2f0d616cb5d4da8ff2e16d5d1cee
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0cbfc35a40d218a4f8e0811cf8e30437, type: 2}
+    WebXR.Settings: {fileID: 11400000, guid: 617efcc96bf52754c9aabdc897101271, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: de41e1fd5ea5d8549b54da12b9c9f638, type: 2}
